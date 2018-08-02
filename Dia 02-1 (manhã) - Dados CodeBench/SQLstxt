@@ -1,0 +1,8 @@
+Analisando a tabela codigo_fonte:
+	use codebench	
+	Campos da Tabela:	
+		select * from codigo_fonte LIMIT 0, 10
+	select id_aluno, codigo, left(log,4000) from codigo_fonte LIMIT 0,10
+
+
+
