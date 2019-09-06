@@ -1,5 +1,6 @@
 # Curso Ciência de Dados no CodeBench
 
+**Importante**: caso você não esteja conseguindo visualizar os notas de aula disponibilizadas em *html e *ipynb, copie e cole o link da nota de aula no [nbviewer](https://nbviewer.jupyter.org/) para renderizar os arquivos:
 
 Machine Learning:
   * Pipeline de Machine learning
